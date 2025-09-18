@@ -6,4 +6,4 @@ Homework2
 
 [https://youtu.be/@NYH-s8r]
 
-[![Video](https://img.youtube.com/vi/CkGW5W4eE6I/gori.jpg)](https://www.youtube.com/watch?v=CkGW5W4eE6I)
+[![Video](https://img.youtube.com/vi/@NYH-s8r/maxresdefault.jpg)](https://www.youtube.com/watch?v=YpKPHmW0tIU)
