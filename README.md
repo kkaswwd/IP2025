@@ -4,6 +4,6 @@ Homework2
 
 <img src="./gori.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
-[https://youtu.be/@NYH-s8r]
+[https://www.youtube.com/channel/UCeZzukXBYU9HQewaUJl-nDQ]
 
 [![Video](https://img.youtube.com/vi/@NYH-s8r/maxresdefault.jpg)](https://www.youtube.com/watch?v=YpKPHmW0tIU)
