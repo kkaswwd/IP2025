@@ -15,4 +15,4 @@
 
 ##Homework 3
 
-<img src="./h3.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+<img src="./h3.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
