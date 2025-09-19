@@ -12,3 +12,7 @@
 
 ##Homework 2
 [![Video](https://img.youtube.com/vi/vOASbRqgwTg/maxresdefault.jpg)](https://www.youtube.com/watch?v=vOASbRqgwTg)
+
+##Homework 3
+
+<img src="./h3.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
