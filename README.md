@@ -19,4 +19,4 @@
 
 ##Homework 4
 
-[![Video](https://img.youtube.com/vi/py3GjcFvTKk/maxresdefault.jpg)]([https://www.youtube.com/watch?v=YpKPHmW0tIU)
+[![Video](https://img.youtube.com/vi/py3GjcFvTKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=py3GjcFvTKk)
