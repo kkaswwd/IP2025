@@ -4,19 +4,19 @@
 
 <img src="./gori.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
-##Homework 1
+## Homework 1
 
 [https://www.youtube.com/channel/UCeZzukXBYU9HQewaUJl-nDQ]
 
 [![Video](https://img.youtube.com/vi/YpKPHmW0tIU/maxresdefault.jpg)](https://www.youtube.com/watch?v=YpKPHmW0tIU)
 
-##Homework 2
+## Homework 2
 [![Video](https://img.youtube.com/vi/vOASbRqgwTg/maxresdefault.jpg)](https://www.youtube.com/watch?v=vOASbRqgwTg)
 
-##Homework 3
+## Homework 3
 
 <img src="./h1.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
-##Homework 4
+## Homework 4
 
 [![Video](https://img.youtube.com/vi/py3GjcFvTKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=py3GjcFvTKk)
