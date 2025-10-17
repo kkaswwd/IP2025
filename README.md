@@ -17,6 +17,9 @@
 
 <img src="./h1.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
+## Homework 4
+[![Video](https://img.youtube.com/vi/y-ArjhaC6uc/maxresdefault.jpg)](https://www.youtube.com/watch?v=y-ArjhaC6uc)
+
 ## Homework 5
 
 [![Video](https://img.youtube.com/vi/py3GjcFvTKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=py3GjcFvTKk)
